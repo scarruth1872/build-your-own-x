@@ -36,4 +36,4 @@ Thanks for your contribution! If you're submitting a tutorial, please ensure it 
 * [ ] Voxel Engine
 * [ ] Web Search Engine
 * [ ] Web Server
-* [ ] Uncategorized
+* [ ] Health and Wellness
