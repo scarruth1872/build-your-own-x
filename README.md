@@ -36,6 +36,7 @@ It's a great way to learn.
 * [Web Server](#build-your-own-web-server)
 * [Uncategorized](#uncategorized)
 * [Fitness App](#build-your-own-fitness-app)
+* [Counseling Agent with Quantum Reasoning](#build-your-own-counseling-agent-with-quantum-reasoning)
 
 ## Tutorials
 
@@ -412,6 +413,10 @@ It's a great way to learn.
 #### Build your own `Fitness App`
 
 * [**JavaScript**: _Build a simple fitness app similar to Fitbud_](tutorials/fitness-app.md)
+
+#### Build your own `Counseling Agent with Quantum Reasoning`
+
+* [**Python**: _Build a counseling agent with quantum reasoning using Qiskit_](tutorials/counseling-agent-quantum-reasoning.md)
 
 #### Uncategorized
 
